@@ -17,26 +17,24 @@ An intelligent Applicant Tracking System (ATS) that uses a neural network to ana
 **8🛡️ Robust Training: Implements EarlyStopping to prevent model overfitting and ensure the most accurate and generalized version of the model is used.***
 
 ## 🛠️ Technology Stack
-# Category
-# Technologies
-# Backend
-# Python
-# ML/DL
-# TensorFlow, Keras, Scikit-learn
-# Data
-# Pandas, NumPy
-# Text/PDF
-# NLTK, PyPDF2
-# Dev Env
-# Jupyter Notebook
+
+Python
+ML/DL
+TensorFlow, Keras, Scikit-learn
+Data
+Pandas, NumPy
+Text/PDF
+NLTK, PyPDF2
+Dev Env
+Jupyter Notebook
 
 ### 📋 How to Set Up and Run
 ## 1. Prerequisites
-# Python 3.8+
+Python 3.8+
 
-# Git
+Git
 
-# Jupyter Notebook or JupyterLab
+Jupyter Notebook or JupyterLab
 
 ## 2. Clone the Repository
 Clone this repository to your local machine:
@@ -74,8 +72,13 @@ Finally, it will prompt you for input to analyze your resume.
 ### 📂 Project Structure
 .
 ├── 📄 ATS NN.ipynb
+
 ├── 🤖 ats_classifier_model.keras
+
 ├── 📊 job_descriptions.csv
+
 ├── 📄 README.md
+
 ├── 📋 requirements.txt
+
 └── 📦 UpdatedResumeDataSet.zip
