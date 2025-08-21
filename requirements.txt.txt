@@ -1,0 +1,12 @@
+# Core libraries for data handling and machine learning
+pandas
+numpy
+scikit-learn
+tensorflow
+
+# Libraries for text and PDF processing
+nltk
+PyPDF2
+
+# Note: Specific versions can be added for stricter dependency management,
+# but these names are sufficient for a pip install.
