@@ -39,7 +39,7 @@ Jupyter Notebook or JupyterLab
 ## 2. Clone the Repository
 Clone this repository to your local machine:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/shreyshubh/ATS-Analyzer-Project.git
 cd your-repository-name
 
 ## 3. Install Dependencies
